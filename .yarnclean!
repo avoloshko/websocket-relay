@@ -1,0 +1,16 @@
+*.d.ts
+*.md
+*.proto
+*.ts
+*.debug.js
+*.c
+*.cpp
+*.h
+*.map
+*.css
+*.png
+*.jpg
+*.html
+LICENSE
+google-gax/protos
+*/test
